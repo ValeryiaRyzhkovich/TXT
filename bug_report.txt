@@ -1,4 +1,4 @@
-Bug report's fields:
+A bug report should contain the following fields:
  1) Bug ID
  2) Summary
  3) Incident description
